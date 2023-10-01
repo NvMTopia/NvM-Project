@@ -12,15 +12,20 @@ NvM Project is a free and open-source for [Growtopia](https://growtopiagame.com/
 
 ## Features
 - Open source and free to use.
-- Support for Growtopia 3.92 and newer versions.
+- Support proxy for Growtopia 3.92 and newer versions.
 - Includes a built-in http server with metadata from the Growtopia client.
 - Works well with sub-server redirection.
 - Supports packet debugging and modification.
 - Includes a configuration file for customization.
 
 ## Download
-Android Device!
-The latest application executable can be found on the [Download Here!](https://www.upload.ee/files/15749249/Nvm_Project.apk.html).
+Hanya Untuk Android Device!!
+[Download Here!](https://www.upload.ee/files/15749249/Nvm_Project.apk.html).
+
+## Tutorial
+- Matikan Google Play Protect Kalian Jika Terhalang Virus
+- Tinggal Install Aplikasi Nvm Project Dan Build Apk Save.dat Sesuai Keinginan
+- Mohon Digunakan Dengan Bijak!!
 
 ## Build
 The following dependencies are required to build from source:
