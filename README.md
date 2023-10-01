@@ -20,7 +20,7 @@ NvM Project is a free and open-source for [Growtopia](https://growtopiagame.com/
 
 ## Download
 Android Device!
-The latest application executable can be found on the [releases page](https://www.upload.ee/files/15749249/Nvm_Project.apk.html).
+The latest application executable can be found on the [Download Here!](https://www.upload.ee/files/15749249/Nvm_Project.apk.html).
 
 ## Build
 The following dependencies are required to build from source:
